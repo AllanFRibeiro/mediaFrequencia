@@ -1,0 +1,14 @@
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.exe
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.deps.json
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.runtimeconfig.json
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.runtimeconfig.dev.json
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.dll
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.pdb
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.csproj.AssemblyReference.cache
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.AssemblyInfoInputs.cache
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.AssemblyInfo.cs
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.csproj.CoreCompileInputs.cache
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.dll
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.pdb
+C:\Imersao_Logica\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.genruntimeconfig.cache
